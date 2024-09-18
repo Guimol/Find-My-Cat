@@ -33,3 +33,4 @@ The selected video will then be transmitted to the app.
 - https://www.reddit.com/r/homeassistant/comments/11l7ddm/looking_for_a_cheap_couple_of_indoor_security/
 - https://medium.com/@ryanburnsworth/building-a-remote-communication-android-app-using-jni-and-kotlin-79becb4b5ab5
 - https://github.com/drogonframework/drogon
+- https://stackoverflow.com/questions/3607954/how-to-get-started-implementing-a-video-streaming-server-in-c-c
