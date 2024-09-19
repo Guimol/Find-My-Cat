@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20.2)
+project( Find-My-Cat )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( DisplayImage.o read_image.cpp )
+target_link_libraries( DisplayImage ${OpenCV_LIBS} )
