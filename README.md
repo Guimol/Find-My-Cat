@@ -24,6 +24,10 @@ The selected video will then be transmitted to the app.
 
 ![Client Mockup](assets/documentation/homepage_mock.png)
 
+## Functionalities "Diagram"
+
+![Functionalities](assets/documentation/functionalities_diagram.png)
+
 ## Related Works
 
 - https://gist.github.com/mendaparadarshit/b1cd7fce2fa4ad83f991775e85e85989
